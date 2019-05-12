@@ -1,0 +1,11 @@
+G:\VSprojects\EnigmaMachine\EnigmaMachine\bin\Debug\netcoreapp2.1\EnigmaMachine.deps.json
+G:\VSprojects\EnigmaMachine\EnigmaMachine\bin\Debug\netcoreapp2.1\EnigmaMachine.runtimeconfig.json
+G:\VSprojects\EnigmaMachine\EnigmaMachine\bin\Debug\netcoreapp2.1\EnigmaMachine.runtimeconfig.dev.json
+G:\VSprojects\EnigmaMachine\EnigmaMachine\bin\Debug\netcoreapp2.1\EnigmaMachine.dll
+G:\VSprojects\EnigmaMachine\EnigmaMachine\bin\Debug\netcoreapp2.1\EnigmaMachine.pdb
+G:\VSprojects\EnigmaMachine\EnigmaMachine\obj\Debug\netcoreapp2.1\EnigmaMachine.csprojAssemblyReference.cache
+G:\VSprojects\EnigmaMachine\EnigmaMachine\obj\Debug\netcoreapp2.1\EnigmaMachine.csproj.CoreCompileInputs.cache
+G:\VSprojects\EnigmaMachine\EnigmaMachine\obj\Debug\netcoreapp2.1\EnigmaMachine.AssemblyInfoInputs.cache
+G:\VSprojects\EnigmaMachine\EnigmaMachine\obj\Debug\netcoreapp2.1\EnigmaMachine.AssemblyInfo.cs
+G:\VSprojects\EnigmaMachine\EnigmaMachine\obj\Debug\netcoreapp2.1\EnigmaMachine.dll
+G:\VSprojects\EnigmaMachine\EnigmaMachine\obj\Debug\netcoreapp2.1\EnigmaMachine.pdb
